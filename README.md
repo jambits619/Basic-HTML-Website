@@ -1,12 +1,12 @@
 # Basic-HTML-Website
 Basic HTML Website
 
-## Description
-Showcase html and a little bit css for the website
-
 ## Project URL
 https://roadmap.sh/projects/basic-html-website
 https://github.com/jambits619/Basic-HTML-Website
+
+## Description
+Showcase html and a little bit css for the website
 
 ## Features
 - Navigation Bar
